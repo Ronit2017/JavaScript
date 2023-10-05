@@ -16,3 +16,7 @@ let myobj= {
 const myFunction = function(){
     console.log("hello");
 }
+
+//********************************************************* */
+
+//Stack (Primitive),Heap (Non-Primitive)
